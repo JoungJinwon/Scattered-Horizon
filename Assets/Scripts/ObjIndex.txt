@@ -1,0 +1,42 @@
+
+/ Buildings Index /
+0   Main Dome
+1   Oxygen Generator
+2   Element Synthesizer
+3   Energy Panel
+4   Rover S
+5   Rover M
+6   Rover L
+7
+8
+9
+10
+
+/ Robots Index /
+100   Builder Robot
+101   Crafter Robot
+102   Explorer Robot
+103   Miner Robot
+
+/ Tools Index /
+1000  Oxygen Capsule
+1001  Mineral Miner
+1002  Dust Bomb Launcher
+1003  Atmospheric Transducer
+1004  Super-Microbial Spreader
+
+/ Resources Index /
+10000 Copper
+10001 Iron
+10002 Sillica
+10003 Carbon
+10004 Neodymium
+10005 Machined Copper
+10006 Machined Iron
+10007 Machined Sillica
+10008 Machined Neodymium
+10009 Advanced Alloy
+10010 Micro Chip
+10011 Energy
+10012 Oxygen
+10013 Microbial Cylinder
